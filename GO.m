@@ -1,8 +1,9 @@
-% Growth Optimizer: A powerful metaheuristic algorithm for solving different optimization problems
-% Gao Hao 08.2022, School of Information Science and Engineering, Shandong Normal University, Jinan
-% Email:GaooHaoo@hotmail.com
-% Corresponding author: Zhang Qingke
-% Email:tsingke@sdnu.edu.cn
+% -----------------------------------------------
+% Growth Optimizer: A powerful metaheuristic algorithm
+% Version:1.0
+% Corresponding author: Qingke Zhang 
+% Email: tsingke@sdnu.edu.cn,GaooHaoo@hotmail.com
+% -----------------------------------------------
 function [gbestX,gbestfitness,gbesthistory]= GO(popsize,dimension,xmax,xmin,MaxFEs,Func,FuncId)
 FEs=0;
 Fitness=Func;
