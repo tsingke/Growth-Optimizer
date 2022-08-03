@@ -3,7 +3,7 @@ a novel and powerful meta-heuristic algorithm
 
 # Growth-Optimization Source Code
 
-```matalb
+```MATLAB
 % Growth Optimizer: A powerful metaheuristic algorithm for solving different optimization problems
 function [gbestX,gbestfitness,gbesthistory]= GO(popsize,dimension,xmax,xmin,MaxFEs,Func,FuncId)
 FEs=0;
