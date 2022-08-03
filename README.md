@@ -1,7 +1,7 @@
-# Growth-Optimization
+# Growth-Optimizer
 a novel and powerful meta-heuristic algorithm
 
-# Growth-Optimization Source Code
+# Growth-Optimizer Source Code
 
 ```MATLAB
 % Growth Optimizer: A powerful metaheuristic algorithm for solving different optimization problems
