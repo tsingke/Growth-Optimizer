@@ -1,8 +1,16 @@
 # Growth-Optimizer
+---
+
+## Introduction
 a novel and powerful meta-heuristic algorithm
 
-# Growth-Optimizer Source Code
+GO is a novel and eﬃcient metaheuristic optimizer. Its main design inspiration originates from the learning and reﬂection mechanisms of individuals in society in their growth process. Learning is the process by which an individual grows by acquiring knowledge from the outside world. Reﬂection is the process of checking an individual’s own deﬁciencies and adjusting the individual’s learning strategies to help the individual’s growth. This work simulates this growth behavior mathematically and benchmarks the proposed algorithm on a total of 30 international test functions of the CEC 2017 test suite. A total of 50 state-of-the-art Meta-Heuristic Algorithms (MHAs) participated in the comparison process. The results of the convergence accuracy comparison and the two non-parametric statistics based on the Friedman test and the Wilcoxon signed-rank test showed that GO provides strong competitive results compared to 50 state-of-the-art MHAs tested. In addition, to verify that GO has the ability to solve diﬀerent real-world optimization problems, GO is applied to two diﬀerent types of real-world optimization problems: the Multiple Sequence Alignment (MSA) problem based on the Hidden Markov Model (HMM) and the multi-thresholding image segmentation problem based on Kapur’s entropy method. The results demonstrate that GO has superior optimization performance than other state-of-the-art MHAs.
 
+## The pseudocode of Growth Optimizer
+
+<img src="GO.png" width='400' height='47#6' >
+
+## The MATLAB code of Go
 ```MATLAB
 % Growth Optimizer: A powerful metaheuristic algorithm for solving different optimization problems
 function [gbestX,gbestfitness,gbesthistory]= GO(popsize,dimension,xmax,xmin,MaxFEs,Func,FuncId)
@@ -124,6 +132,6 @@ else
     end
 end
 
-
-
 ```
+
+We are grateful for your 
