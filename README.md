@@ -2,7 +2,23 @@
 
 ## Introduction
 
-GO is a novel and eﬃcient metaheuristic optimizer. Its main design inspiration originates from the learning and reﬂection mechanisms of individuals in society in their growth process. Learning is the process by which an individual grows by acquiring knowledge from the outside world. Reﬂection is the process of checking an individual’s own deﬁciencies and adjusting the individual’s learning strategies to help the individual’s growth. This work simulates this growth behavior mathematically and benchmarks the proposed algorithm on a total of 30 international test functions of the CEC 2017 test suite. A total of 50 state-of-the-art Meta-Heuristic Algorithms (MHAs) participated in the comparison process. The results of the convergence accuracy comparison and the two non-parametric statistics based on the Friedman test and the Wilcoxon signed-rank test showed that GO provides strong competitive results compared to 50 state-of-the-art MHAs tested. In addition, to verify that GO has the ability to solve diﬀerent real-world optimization problems, GO is applied to two diﬀerent types of real-world optimization problems: the Multiple Sequence Alignment (MSA) problem based on the Hidden Markov Model (HMM) and the multi-thresholding image segmentation problem based on Kapur’s entropy method. The results demonstrate that GO has superior optimization performance than other state-of-the-art MHAs.
+GO is a  a novel and powerful meta-heuristic optimizer, named Growth Optimizer (GO), is
+proposed. Its main design inspiration originates from the learning and refl ection mechanisms of
+individuals in society in their growth process. Learning is the process of individuals growing up by
+acquiring knowledge from the outside world. Refl ection is the process of checking the individual’s
+own defi ciencies and adjusting the individual’s learning strategies to help the individual’s growth.
+This work simulates this growth behavior mathematically and benchmarks the proposed algorithm on
+a total of 30 international test functions of the 2017 IEEE Congress on Evolutionary Computation real-
+parameter boundary constraint benchmark (CEC 2017 test suite). A total of 50 state-of-the-art meta-
+heuristic algorithms participated in the comparison process. The results of the convergence accuracy
+comparison and the two non-parametric statistics based on the Friedman test and the Wilcoxon
+signed-rank test showed that GO provides competitive results compared to 50 state-of-the-art meta-
+heuristic algorithms tested. In addition, to verify that GO has the ability to solve diff erent real-world
+optimization problems, GO is applied to two diff erent types of real-world optimization problems:
+the Multiple Sequence Alignment (MSA) problem based on the Hidden Markov Model (HMM) and
+the multi-thresholding image segmentation problem based on Kapur’s entropy method. GO provides
+more promising results compared to other meta-heuristic techniques, especially in terms of solution
+quality and avoidance of local minima.
 
 ## The pseudocode of Growth Optimizer
 
