@@ -1,12 +1,13 @@
-% Growth Optimizer: A powerful metaheuristic algorithm for solving different optimization problems
-% Hao Gao 08.2022, School of Information Science and Engineering, Shandong Normal University, Jinan
-% Email:GaooHaoo@hotmail.com
+%-----------------------------------------------------------------
+%Growth Optimizer: A powerful metaheuristic algorithm for solving different optimization problems
+% School of Information Science and Engineering, Shandong Normal University, Jinan
 % Corresponding author: Qingke Zhang
 % Email:tsingke@sdnu.edu.cn
 % Note: 1.The CEC 2017 file has been recompiled to return fitness value errors.
 %       2.This version of GO uses the maximum number of evaluations (MaxFEs) as its termination criterion.
 %       3.Need to load input_data_17 file for shifting, rotating, etc
 %       4.Not using 1E-8 as a condition for finding the global optimal solution
+%-----------------------------------------------------------------
 clc;
 clear;
 close all;

@@ -20,9 +20,17 @@ the multi-thresholding image segmentation problem based on Kapur’s entropy met
 more promising results compared to other meta-heuristic techniques, especially in terms of solution
 quality and avoidance of local minima.
 
+
 ## The pseudocode of Growth Optimizer
 
 <img src="GO.png" width='400' height='476' >
+
+## Search Analysis
+
+
+![search direction](direction.jpg)
+
+![visulization](visualization.jpg)
 
 ## The MATLAB code of Go
 ```MATLAB
