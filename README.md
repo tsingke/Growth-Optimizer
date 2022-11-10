@@ -28,7 +28,7 @@ quality and avoidance of local minima.
 ## Search Analysis
 
 
-![search direction](./GO/direction.jpg)
+![search direction](./GO/direction.png)
 
 ![visulization](./GO/visualization.jpg)
 
