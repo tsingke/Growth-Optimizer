@@ -23,14 +23,14 @@ quality and avoidance of local minima.
 
 ## The pseudocode of Growth Optimizer
 
-<img src="GO.png" width='400' height='476' >
+<img src="./GO/GO.png" width='400' height='476' >
 
 ## Search Analysis
 
 
-![search direction](direction.jpg)
+![search direction](./GO/direction.jpg)
 
-![visulization](visualization.jpg)
+![visulization](./GO/visualization.jpg)
 
 ## The MATLAB code of Go
 ```MATLAB
