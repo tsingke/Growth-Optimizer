@@ -2,7 +2,7 @@
 
 ## Introduction
 
-GO is a  a novel and powerful meta-heuristic optimizer, named Growth Optimizer (GO), is
+GO is a novel and powerful meta-heuristic optimizer, named Growth Optimizer (GO), is
 proposed. Its main design inspiration originates from the learning and refl ection mechanisms of
 individuals in society in their growth process. Learning is the process of individuals growing up by
 acquiring knowledge from the outside world. Refl ection is the process of checking the individual’s
