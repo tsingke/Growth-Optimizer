@@ -1,5 +1,7 @@
 # Growth-Optimizer
 
+Paper Link:  https://doi.org/10.1016/j.knosys.2022.110206
+
 ## Introduction
 
 In this paper, a novel and powerful metaheuristic optimizer, named the growth optimizer (GO), is proposed. Its main design inspiration originates from the learning and reflection mechanisms of individuals in their growth processes in society. Learning is the process of individuals growing up by acquiring knowledge from the outside world. Reflection is the process of checking the individual's own deficiencies and adjusting the individual's learning strategies to help the individual's growth. This work simulates this growth behavior mathematically and benchmarks the proposed algorithm on a total of 30 international test functions of the 2017 IEEE Congress on Evolutionary Computation real-parameter boundary constraint benchmark (CEC 2017 test suite). A total of 50 state-of-the-art metaheuristic algorithms participated in the comparison process. The results of the convergence accuracy comparison and the two nonparametric statistics based on the Friedman test and the Wilcoxon signed-rank test showed that GO provides competitive results compared to the 50 state-of-the-art metaheuristic algorithms tested. In addition, to verify that GO has the ability to solve different real-world optimization problems, GO was applied to two different types of real-world optimization problems: the multiple sequence alignment (MSA) problem based on the hidden Markov model (HMM) and the multithresholding image segmentation problem based on Kapur's entropy method. GO provided more promising results than other metaheuristic techniques, especially in terms of solution quality and avoidance of local optima. The source code of the GO algorithm is publicly available at https://github.com/tsingke/Growth-Optimizer.
@@ -140,8 +142,8 @@ end
 
 ```
 ## Acknowledgements
-This work is supported by Natural Science Foundation of Shandong Province (62006144), Major Fundamental Research Project of Shandong Province (No. ZR2019ZD03), and Taishan Scholar Project of Shandong Province (No. ts20190924).
+This work is supported by the National Natural Science Foundation of China (No. 62006144) , the Major Fundamental Research Project of Shandong, China
+(No. ZR2019ZD03) , and the Taishan Scholar Project of Shandong, China (No.ts20190924).
 
-**Thank you for taking the time to review our paper and we would like to express our sincere gratitude to you! Best Regards！**
 
 
